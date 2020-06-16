@@ -1,0 +1,50 @@
+.social-media-share-btns:after{
+	clear: both;
+	display: block;
+	content: " ";
+}
+.social-media-share-btn a{
+	display: block;
+	float: left;
+	padding-top: 11px;
+	line-height: 1;
+	width: 40px;
+	height: 40px;
+	font-size: 14pt;
+	text-align: center;
+	color: #444;
+}
+.social-media-share-btn a{
+	display: block;
+	float: left;
+	padding-top: 11px;
+	line-height: 1;
+	width: 40px;
+	height: 40px;
+	font-size: 14pt;
+	text-align: center;
+	color: #444;
+	background-color: #ddd;
+	margin-right: 10px;
+}
+.social-media-share-btn a i{
+	margin: 0px;
+}
+.social-media-share-btn.social-media-facebook a:hover{
+	color: #3b5998;
+}
+.social-media-share-btn.social-media-twitter a:hover{
+	color: #4099ff;
+}
+.social-media-share-btn.social-media-linkedin a:hover{
+	color: #0e76a8;
+}
+.social-media-share-btn.social-media-google a:hover{
+	color: red;
+}
+.social-media-share-btn.social-media-pinterest a:hover{
+	color: #BD081C;
+}
+.social-media-share-btn.social-media-email a:hover{
+	color: #444;
+}
